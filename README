@@ -1,4 +1,17 @@
-type from this path:
+NOTE:
+
+This repository contains the code presented and used in the following paper, and it is no longer maintained:
+http://www.geosci-model-dev.net/7/2831/2014/gmd-7-2831-2014.html
+
+We have moved to the following repository:
+https://github.com/geotopmodel/geotop/tree/se27xx
+
+
+____________________________________________________________________
+
+TO COMPILE: 
+
+Type from this path:
 
 mkdir bin # This is the directory for the executable file
 make -f geotop.make
